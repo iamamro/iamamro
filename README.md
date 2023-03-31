@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamamro 
 - 👀 I’m interested in ... physics and mathematics 
-- 🌱 I’m currently learning ... Fortran 
-- 💞️ I’m looking to collaborate on ... seriously, you dont want me jinxing your project  
+- 🌱 I’m currently learning ... Fortran (billions of years of experience in)
+- 💞️ I’m not looking to collaborate on ... anything. Seriously, you dont want me jinxing your project  
 - 📫 How to reach me ... at the usual places & <a rel="me" href="https://mastodon.social/@iamamro">Mastodon</a>
 
 <!---
