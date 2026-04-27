@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... physics and mathematics (professionally) and in the rest of life - music, literature and the visual arts.
 - 🌱 I’m currently learning ... Fortran (billions of years of experience in) ... Chinese (Mandarin) ... to say no. 
 - 💞️ I’m not looking to collaborate on ... anything. Seriously, you dont want me jinxing your project  
-- 📫 How to reach me ... at the usual places & <a rel="me" href="https://mastodon.social/@iamamro">Mastodon</a> & <a rel="me" href="https://bsky.app/profile/amro.xyz">Bluesky</a> 
+- 📫 How to reach me ... at the <a rel="me" href="https://x.com/@iamamro">usual</a>  places & <a rel="me" href="https://mastodon.social/@iamamro">Mastodon</a> & <a rel="me" href="https://bsky.app/profile/amro.xyz">Bluesky</a> 
 
 <!---
 
